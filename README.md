@@ -23,7 +23,7 @@ I'm Ashley Cook, a multi-faceted tech enthusiast based in the United States 🇺
 
 ####  I'd like to learn more about:
 - Embedded systems security
-- Information security incidence response
+- Information security incident response
 - Windows kernel driver engineering
 - Software-defined radio
 
